@@ -1,6 +1,6 @@
 {
-  "name": "mydemoapp",
-  "version": "1.0.3",
+  "name": "@chowdary9291301074/mydemoapp",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
